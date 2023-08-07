@@ -2,6 +2,9 @@
 
 This is a spot for me to keep notes on commonly used design patterns.  As I work through learning design patterns I'll include sample implementations of each.  Content (outside of code examples) here will be a mix of my notes and resources online.
 
+## Code Examples
+
+Code examples will be written in C# using the [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.306-windows-x64-installer).
 
 ### Resources used
 
