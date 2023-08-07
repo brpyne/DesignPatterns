@@ -10,9 +10,11 @@ I will be using the .NET CLI with VS Code to run these code examples.  Helpful r
 
 Frequently used commands:
 `dotnet new console`
+`dotnet new console --use-program-main`
 `dotnet run`
 
 ## Resources used
 
 - [C# Corner](https://www.c-sharpcorner.com/UploadFile/questpond/design-pattern-interview-questions/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [gitignore](https://github.com/github/gitignore/tree/main)
