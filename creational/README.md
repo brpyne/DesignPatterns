@@ -6,4 +6,4 @@
 - Prototype : A fully initialized instance to be copied or cloned
 - Singleton : A class in which only a single instance can exist
 
-Mnemnoic: ABFPS (Abraham Became First President of States).
+Mnemonic: ABFPS (Abraham Became First President of States).
